@@ -1,16 +1,16 @@
-<div id="back"></div>
+<div id="bosque"></div>
 
 <div class="login-box">
   
   <div class="login-logo">
 
-    <img src="vistas/img/plantilla/logo-blanco-bloque.png" class="img-responsive" style="padding:30px 100px 0px 100px">
+    <img src="vistas/img/plantilla/tec.png" class="img-responsive" style="padding:30px 100px 0px 100px">
 
   </div>
 
   <div class="login-box-body">
 
-    <p class="login-box-msg">Ingresar al sistema</p>
+    <p class="login-box-msg">BIENVENIDO INGRESE PORFAVOR</p>
 
     <form method="post">
 
