@@ -11,7 +11,7 @@ session_start();
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>VENTA DE TECNOLOGIA PROYECTO X</title>
+  <title>VENTA DE TECNOLOGIA PROYECTO X UNA VISION HACIA EL FUTURO</title>
 
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
