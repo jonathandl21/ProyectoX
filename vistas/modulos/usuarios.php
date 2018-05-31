@@ -34,7 +34,7 @@
 
       <div class="box-body">
         
-       <table class="table table-bordered table-striped dt-responsive tablas" width="100%">
+       <table class="table table-bordered table-striped dt-responsive tablas" width="100%">   
          
         <thead>
          
@@ -64,7 +64,7 @@
 
        foreach ($usuarios as $key => $value){
          
-          echo ' <tr>
+        echo ' <tr>
                   <td>1</td>
                   <td>'.$value["nombre"].'</td>
                   <td>'.$value["usuario"].'</td>';

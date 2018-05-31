@@ -10,7 +10,9 @@
 
   <div class="login-box-body">
 
-    <p class="login-box-msg">BIENVENIDO INGRESE PORFAVOR</p>
+
+
+    <p class="login-box-msg">BIENVENIDO INGRESE POR FAVOR</p>
 
     <form method="post">
 
@@ -20,6 +22,44 @@
         <span class="glyphicon glyphicon-user form-control-feedback"></span>
 
       </div>
+      <div class="form-group">
+      <label style="font-size: 14pt"><b>Repite tu contraseña</b></label>
+      <input type="password" name="rpass" class="form-control" required placeholder="repite contraseña" />
+    </div>
+
+
+<div class="box-body">
+
+
+    Agregar usuario
+
+        </button>
+
+      </div>
+
+      <div class="box-body">
+        
+       <table class="table table-bordered table-striped dt-responsive tablas" width="100%">   
+         
+        <thead>
+         
+         <tr>
+           
+           <th style="width:10px">#</th>
+           <th>Nombre</th>
+           <th>Usuario</th>
+           <th>Foto</th>
+           <th>Perfil</th>
+           <th>Estado</th>
+           <th>Último login</th>
+           <th>Acciones</th>
+
+         </tr> 
+
+        </thead>
+
+   </div>
+
 
       <div class="form-group has-feedback">
 
@@ -33,9 +73,23 @@
         <div class="col-xs-4">
 
           <button type="submit" class="btn btn-primary btn-block btn-flat">Ingresar</button>
+
+
+
+      
+
+
+
         
         </div>
+ 
+        </div>
 
+      </div>
+
+      
+
+          
       </div>
 
       <?php

@@ -1,6 +1,12 @@
 <div class="content-wrapper">
 
   <section class="content-header">
+
+
+
+
+
+
     
     <h1>
       
@@ -26,7 +32,10 @@
     <!-- Default box -->
     <div class="box">
       <div class="box-header with-border">
-        <h3 class="box-title">Title</h3>
+        <h3 class="box-title"></h3>
+        <h1>
+        HOLA
+      </h1>
 
         <div class="box-tools pull-right">
           <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip"
@@ -38,6 +47,10 @@
       </div>
       <div class="box-body">
         Start creating your amazing application!
+
+
+
+
       </div>
       <!-- /.box-body -->
       <div class="box-footer">
