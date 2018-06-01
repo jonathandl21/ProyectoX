@@ -4,7 +4,7 @@
     
     <h1>
       
-      Administrar categorías
+      Administrar 
     
     </h1>
 
