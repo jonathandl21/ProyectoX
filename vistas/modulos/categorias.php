@@ -4,7 +4,7 @@
     
     <h1>
       
-      Administrar 
+      Administrar cate
     
     </h1>
 
