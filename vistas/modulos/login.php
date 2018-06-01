@@ -7,6 +7,80 @@
     <img src="vistas/img/plantilla/tec.png" class="img-responsive" style="padding:30px 100px 0px 100px">
 
   </div>
+  
+    Agregar usuario
+
+        </button>
+
+      </div>
+
+      <div class="box-body">
+        
+       <table class="table table-bordered table-striped dt-responsive tablas" width="100%">   
+         
+        <thead>
+         
+         <tr>
+           
+           <th style="width:10px">#</th>
+           <th>Nombre</th>
+           <th>Usuario</th>
+           <th>Foto</th>
+           <th>Perfil</th>
+           <th>Estado</th>
+           <th>Último login</th>
+           <th>Acciones</th>
+
+         </tr> 
+
+        </thead>
+
+   </div>
+
+
+      <div class="form-group has-feedback">
+
+        <input type="password" class="form-control" placeholder="Contraseña" name="ingPassword" required>
+        <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+      
+      </div>
+
+      <div class="row">
+       
+        <div class="col-xs-4">
+
+          <button type="submit" class="btn btn-primary btn-block btn-flat">Ingresar</button>
+
+
+
+      
+
+
+
+        
+        </div>
+ 
+        </div>
+
+      </div>
+
+      
+
+          
+      </div>
+
+      <?php
+
+        $login = new ControladorUsuarios();
+        $login -> ctrIngresoUsuario();
+        
+      ?>
+
+    </form>
+
+  </div>
+
+</div>
 
   <div class="login-box-body">
 
